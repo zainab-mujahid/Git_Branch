@@ -39,3 +39,28 @@ padding:10px;
 border:none;
 
 }
+
+.dark-mode {
+    background: #121212;
+    color: white;
+}
+
+.dark-mode header {
+    background: #000;
+}
+
+.dark-mode nav a {
+    color: white;
+}
+
+.dark-mode button {
+    background: #444;
+    color: white;
+}
+
+.dark-mode section {
+    background: #1e1e1e;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
